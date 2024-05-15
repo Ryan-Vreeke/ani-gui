@@ -1,6 +1,5 @@
 #include <gtkmm-3.0/gtkmm.h>
 #include <gtkmm/button.h>
-#include <curl/curl.h>
 #include <iostream>
 
 #pragma once
